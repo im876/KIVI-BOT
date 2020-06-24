@@ -1,0 +1,181 @@
+I want to travel to hadapsar,Book_Bus
+Make a booking,Book_Bus
+book,Book_Bus
+I want to book,Book_Bus
+I want to go to,Book_Bus
+I want to travel,Book_Bus
+great I want to book a ride then,Book_Bus
+Set up a booking,Book_Bus
+english,english
+अंग्रेज़ी,english
+english language,english
+bye,goodbyes
+catch you later,goodbyes
+good bye,goodbyes
+see you,goodbyes
+bbye,goodbyes
+bye bye,goodbyes
+bie bie,goodbyes
+bbyee,goodbyes
+talk to you soon,goodbyes
+c ya,goodbyes
+hii,greetings
+helloi,greetings
+kia ora,greetings
+hello,greetings
+vanakkam,greetings
+namaste,greetings
+hey,greetings
+hi,greetings
+hiiii,greetings
+hiii,greetings
+hindi,hindi
+हिंदी,hindi
+hinndi,hindi
+phursungi,location
+talawade,location
+talwade,location
+sppu,location
+sasane nagar,location
+university,location
+pune university,location
+hadapsar,location
+katraj,location
+pimpri,location
+station,location
+pune station,location
+fursungi,location
+hinjewadi phase 2,location
+hadapsar gadital,location
+hinjewadi,location
+hinjewadi phase 1,location
+karve nagar,location
+hinjewadi phase 3,location
+pimple saudagar,location
+kothrud,location
+pimple gurav,location
+chinchwad,location
+baner,location
+aundh,location
+manjri,location
+shewalewadi,location
+handewadi,location
+wanowarie,location
+wadgaon sheri,location
+wiman nagar,location
+15 number,location
+viman nagar,location
+Do you travel to hinjewadi,location_confirm
+Do you travel to hadapsar?,location_confirm
+do you travel to handewadi,location_confirm
+I want to travel to pimple saudagar,location_confirm
+I want to travel to hinjewadi,location_confirm
+I want to travel to hadapsar,location_confirm
+I want to travel 15 number,location_confirm
+Can I travel to hadapsar,location_confirm
+Do you travel to hinjewadi?,location_confirm
+can I travel to Hinjewadi?,location_confirm
+mennnu,menu
+meeenu,menu
+meenu,menu
+menuuu,menu
+menu,menu
+mennu,menu
+menuu,menu
+gud afternoon,mrng_afternoon_evening
+gud eevnin,mrng_afternoon_evening
+good afternoonn,mrng_afternoon_evening
+good afternon,mrng_afternoon_evening
+good morning,mrng_afternoon_evening
+good afternoon,mrng_afternoon_evening
+good evening,mrng_afternoon_evening
+gd mrng,mrng_afternoon_evening
+gud mrng,mrng_afternoon_evening
+gd evening,mrng_afternoon_evening
+gd evenin,mrng_afternoon_evening
+ritu,names
+nikita,names
+mira,names
+riya,names
+tanishqa,names
+diya,names
+havisha,names
+dinesh,names
+naina,names
+sara,names
+shankar,names
+kabir,names
+dhruv,names
+siddharth,names
+anand,names
+bhavna,names
+nidhi,names
+akshara,names
+tanvi,names
+veer,names
+meera,names
+yash,names
+arya,names
+ishan,names
+kalyani,names
+vineet,names
+aishwarya,names
+malay,names
+parth,names
+shreya,names
+karan,names
+alia,names
+janhvi,names
+mayur,names
+ishita,names
+ramesh,names
+mukesh,names
+sameer,names
+tina,names
+aarush,names
+arush,names
+mina,names
+pratiksha,names
+rahul,names
+rohit,names
+preeti,names
+rakesh,names
+divya,names
+sheetal,names
+manisha,names
+trusha,names
+sandip,names
+bina,names
+paresh,names
+ankit,names
+rekha,names
+prakash,names
+krishna,names
+kavya,names
+anushka,names
+shaanu,names
+chhaya,names
+tejaswini,names
+is social distancing followed,Safety_query
+what do we have to do for our safety,Safety_query
+passenger safety,Safety_query
+what do you do for staff safety,Safety_query
+staff safety,Safety_query
+social distancing followed?,Safety_query
+What about passenger safety,Safety_query
+coool,slang
+cooool,slang
+woww,slang
+woow,slang
+wow,slang
+nicee,slang
+niceee,slang
+wowww,slang
+nice,slang
+cool,slang
+great,slang
+cheers,thank_you
+thanks,thank_you
+thank you,thank_you
+thx,thank_you
+appreciate it,thank_you
